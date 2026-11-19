@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="222" viewBox="0 0 506 222" role="img" aria-label="AgencyDash: Agency management dashboard and client portal with a Kanban CRM and multi-currency billing.">
+<style>
+:root{--bd:#D0D7DE;--tx:#1F2328;--mu:#59636E;--dm:#6E7781}
+@media (prefers-color-scheme: dark){:root{--bd:#30363D;--tx:#E6EDF3;--mu:#9DA7B3;--dm:#7D8590}}
+.bd{fill:none;stroke:var(--bd)}
+.dv{stroke:var(--bd);opacity:.7}
+.tx{fill:var(--tx)}
+.mu{fill:var(--mu)}
+.dm{fill:var(--dm)}
+</style>
+<g transform="translate(16,0)">
+<rect x="0.75" y="0.75" width="488.5" height="204.5" rx="14" class="bd" stroke-width="1.5"/>
+<text x="24" y="40" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700">AgencyDash</text>
+<text x="466" y="38" text-anchor="end" class="dm" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="1.2">WEB</text>
+<text x="24" y="68" class="mu" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Agency management dashboard and client portal</text>
+<text x="24" y="88" class="mu" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">with a Kanban CRM and multi-currency billing.</text>
+<rect x="24.5" y="106.5" width="91" height="26" rx="13" class="bd"/>
+<text x="69.5" y="123.3" text-anchor="middle" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Next.js 16</text>
+<rect x="123.5" y="106.5" width="77" height="26" rx="13" class="bd"/>
+<text x="161.5" y="123.3" text-anchor="middle" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500">React 19</text>
+<rect x="208.5" y="106.5" width="77" height="26" rx="13" class="bd"/>
+<text x="246.5" y="123.3" text-anchor="middle" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500">Supabase</text>
+<line x1="24" y1="152" x2="466" y2="152" class="dv"/>
+<text x="24" y="179" class="dm" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400">Full-stack web app</text>
+<text x="466" y="179" text-anchor="end" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">View on GitHub  →</text>
+</g>
+</svg>

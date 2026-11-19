@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="506" height="222" viewBox="0 0 506 222" role="img" aria-label="See all repositories on GitHub">
+<style>
+:root{--bd:#D0D7DE;--tx:#1F2328;--mu:#59636E;--dm:#6E7781}
+@media (prefers-color-scheme: dark){:root{--bd:#30363D;--tx:#E6EDF3;--mu:#9DA7B3;--dm:#7D8590}}
+.bd{fill:none;stroke:var(--bd)}
+.dv{stroke:var(--bd);opacity:.7}
+.tx{fill:var(--tx)}
+.mu{fill:var(--mu)}
+.dm{fill:var(--dm)}
+</style>
+<g transform="translate(16,0)">
+<rect x="0.75" y="0.75" width="488.5" height="204.5" rx="14" class="bd" stroke-width="1.5" stroke-dasharray="6 6"/>
+<text x="245.0" y="96" text-anchor="middle" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="700">More on GitHub</text>
+<text x="245.0" y="122" text-anchor="middle" class="mu" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="400">Browse all public repositories</text>
+<text x="245.0" y="154" text-anchor="middle" class="tx" font-family="Inter, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600">github.com/mubarakar95  →</text>
+</g>
+</svg>

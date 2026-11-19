@@ -30,22 +30,11 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
 
 ## Featured projects
 
-<p align="center">
-  <a href="https://github.com/mubarakar95/huffaz-app"><img src="assets/cards/huffaz-app.svg" alt="huffaz-app" width="49%"></a>
-  <a href="https://github.com/mubarakar95/holyquran-ai"><img src="assets/cards/holyquran-ai.svg" alt="holyquran-ai" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mubarakar95/bhai"><img src="assets/cards/bhai.svg" alt="bhai" width="49%"></a>
-  <a href="https://github.com/mubarakar95/AgencyDash"><img src="assets/cards/agencydash.svg" alt="AgencyDash" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mubarakar95/holyquran-web"><img src="assets/cards/holyquran-web.svg" alt="holyquran-web" width="49%"></a>
-  <a href="https://github.com/mubarakar95/holyquran-wear"><img src="assets/cards/holyquran-wear.svg" alt="holyquran-wear" width="49%"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/mubarakar95/family-tree-2d"><img src="assets/cards/family-tree-2d.svg" alt="family-tree-2d" width="49%"></a>
-  <a href="https://github.com/mubarakar95?tab=repositories"><img src="assets/cards/more.svg" alt="More on GitHub" width="49%"></a>
-</p>
+<a href="https://github.com/mubarakar95/huffaz-app"><img align="left" src="assets/projects/huffaz-app.svg" alt="huffaz-app" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-ai"><img align="left" src="assets/projects/holyquran-ai.svg" alt="holyquran-ai" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/bhai"><img align="left" src="assets/projects/bhai.svg" alt="bhai" width="49.9%"></a><a href="https://github.com/mubarakar95/AgencyDash"><img align="left" src="assets/projects/agencydash.svg" alt="AgencyDash" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/holyquran-web"><img align="left" src="assets/projects/holyquran-web.svg" alt="holyquran-web" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-wear"><img align="left" src="assets/projects/holyquran-wear.svg" alt="holyquran-wear" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/family-tree-2d"><img align="left" src="assets/projects/family-tree-2d.svg" alt="family-tree-2d" width="49.9%"></a><a href="https://github.com/mubarakar95?tab=repositories"><img align="left" src="assets/projects/more.svg" alt="More on GitHub" width="49.9%"></a>
+<br clear="all">
 
 <p align="center">
   Live CI status:
