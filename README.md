@@ -30,11 +30,10 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
 
 ## Featured projects
 
-<a href="https://github.com/mubarakar95/huffaz-app"><img align="left" src="assets/projects/huffaz-app.svg" alt="huffaz-app" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-ai"><img align="left" src="assets/projects/holyquran-ai.svg" alt="holyquran-ai" width="49.9%"></a>
-<a href="https://github.com/mubarakar95/bhai"><img align="left" src="assets/projects/bhai.svg" alt="bhai" width="49.9%"></a><a href="https://github.com/mubarakar95/AgencyDash"><img align="left" src="assets/projects/agencydash.svg" alt="AgencyDash" width="49.9%"></a>
-<a href="https://github.com/mubarakar95/holyquran-web"><img align="left" src="assets/projects/holyquran-web.svg" alt="holyquran-web" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-wear"><img align="left" src="assets/projects/holyquran-wear.svg" alt="holyquran-wear" width="49.9%"></a>
-<a href="https://github.com/mubarakar95/family-tree-2d"><img align="left" src="assets/projects/family-tree-2d.svg" alt="family-tree-2d" width="49.9%"></a><a href="https://github.com/mubarakar95?tab=repositories"><img align="left" src="assets/projects/more.svg" alt="More on GitHub" width="49.9%"></a>
-<br clear="all">
+<a href="https://github.com/mubarakar95/huffaz-app"><img src="assets/project-cards/huffaz-app.svg" alt="huffaz-app" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-ai"><img src="assets/project-cards/holyquran-ai.svg" alt="holyquran-ai" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/bhai"><img src="assets/project-cards/bhai.svg" alt="bhai" width="49.9%"></a><a href="https://github.com/mubarakar95/AgencyDash"><img src="assets/project-cards/agencydash.svg" alt="AgencyDash" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/holyquran-web"><img src="assets/project-cards/holyquran-web.svg" alt="holyquran-web" width="49.9%"></a><a href="https://github.com/mubarakar95/holyquran-wear"><img src="assets/project-cards/holyquran-wear.svg" alt="holyquran-wear" width="49.9%"></a>
+<a href="https://github.com/mubarakar95/family-tree-2d"><img src="assets/project-cards/family-tree-2d.svg" alt="family-tree-2d" width="49.9%"></a><a href="https://github.com/mubarakar95?tab=repositories"><img src="assets/project-cards/more.svg" alt="More on GitHub" width="49.9%"></a>
 
 <p align="center">
   Live CI status:
@@ -52,7 +51,7 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
 ## Tech stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Tech stack. Mobile: Flutter, Dart, Kotlin, Compose, Android. Web: Next.js, React, TypeScript, Tailwind CSS, Node.js, ESLint. Backend and data: Supabase, PostgreSQL, Firebase, SQLite. AI: Gemini, Python. DevOps: Git, GitHub, GitHub Actions, Google Play." width="100%">
+  <img src="assets/tech-stack.svg" alt="Tech stack. Mobile: Flutter, Dart, Kotlin, Compose, Android. Web: Next.js, React, TypeScript, Tailwind CSS, Node.js, ESLint. Backend and data: Supabase, PostgreSQL, Firebase, SQLite. AI: Gemini, Python. DevOps: Git, GitHub, GitHub Actions, Google Play." width="100%">
 </p>
 
 ## What I'm working on
