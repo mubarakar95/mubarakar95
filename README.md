@@ -42,6 +42,14 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
   <a href="https://github.com/mubarakar95/bhai/actions/workflows/ci.yml"><img src="https://github.com/mubarakar95/bhai/actions/workflows/ci.yml/badge.svg" alt="bhai CI"></a>
 </p>
 
+## Open source
+
+Contributor to [**Aden Hive**](https://github.com/aden-hive/hive), an open-source multi-agent harness for production AI (11k+ stars). Merged pull requests:
+
+- [#4770](https://github.com/aden-hive/hive/pull/4770): Apify integration with 4 tools and a full test suite
+- [#4576](https://github.com/aden-hive/hive/pull/4576): reduced subprocess spawning in the quickstart scripts
+- [#2652](https://github.com/aden-hive/hive/pull/2652): production-ready TUI with interactive agent execution, real-time monitoring and screenshot support
+
 ## How I build
 
 <p align="center">
