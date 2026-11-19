@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/glance.svg" alt="109 automated tests across 3 Flutter apps, 3 repos with CI, 7 featured projects, 3 platforms" width="100%">
+  <img src="assets/at-a-glance.svg" alt="109 automated tests across 3 Flutter apps, 3 repos with CI, 7 featured projects, 3 platforms" width="100%">
 </p>
 
 ## About
@@ -45,7 +45,7 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
 ## How I build
 
 <p align="center">
-  <img src="assets/principles.svg" alt="Offline-first, tested, shippable, clean history" width="100%">
+  <img src="assets/how-i-build.svg" alt="Offline-first, tested, shippable, clean history" width="100%">
 </p>
 
 ## Tech stack
