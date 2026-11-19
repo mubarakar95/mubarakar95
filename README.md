@@ -62,13 +62,9 @@ I'm a full-stack developer who ships on three platforms: **mobile** with Flutter
 
 ## Tech stack
 
-| | |
-| --- | --- |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Android Studio"> |
-| **Web** | <img src="https://skillicons.dev/icons?i=nextjs,react,ts&theme=dark" alt="Next.js, React, TypeScript"> |
-| **Backend and data** | <img src="https://skillicons.dev/icons?i=supabase,postgres,firebase,sqlite&theme=dark" alt="Supabase, PostgreSQL, Firebase, SQLite"> |
-| **AI and scripting** | <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"> Gemini API |
-| **Tooling** | <img src="https://skillicons.dev/icons?i=git,githubactions,figma,vscode&theme=dark" alt="Git, GitHub Actions, Figma, VS Code"> |
+<p align="center">
+  <img src="assets/stack.svg" alt="Tech stack. Mobile: Flutter, Dart, Kotlin, Compose, Android. Web: Next.js, React, TypeScript, Tailwind CSS, Node.js, ESLint. Backend and data: Supabase, PostgreSQL, Firebase, SQLite. AI: Gemini, Python. DevOps: Git, GitHub, GitHub Actions, Google Play." width="100%">
+</p>
 
 ## What I'm working on
 
